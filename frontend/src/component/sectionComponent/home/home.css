@@ -1,0 +1,30 @@
+table, th, td{
+    border: 1px solid rgb(151, 211, 72);
+    border-collapse: collapse;
+}
+table th{
+    border: 2px solid rgb(151, 211, 72);
+}
+table caption{
+    color: rgb(19, 101, 104);
+}
+table th,td{
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    color: rgb(19, 101, 104);
+}
+.homeHeader{
+    margin-left: 100px;
+    color: rgb(19, 101, 104);
+    
+}
+.main{
+    display:block;
+}
+table{
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}

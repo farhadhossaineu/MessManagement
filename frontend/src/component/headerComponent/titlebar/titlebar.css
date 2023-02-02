@@ -1,0 +1,11 @@
+.App{
+    background-color: rgb(41, 105, 44);
+    color: #fff;
+}
+.title{
+    font-family:cursive;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+
+}
+.navbar .input{
+    text-decoration: none;
+    text-align: center;
+    font-family:cursive;
+    background-color:rgb(9, 136, 145);
+    width:35%;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-size: 1em;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    cursor: pointer;
+    color: #fff;
+    border: 1px solid rgb(11, 105, 143);;
+}
+.navbar .active{
+    color:rgb(9, 136, 145);
+    background-color: #fff;
+    border-bottom: 0px;
+}
+.navbar .input:hover{
+    color:rgb(9, 136, 145);
+    background-color: #fff;
+    border: 1px solid;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+.navbar .last{
+    margin-right: 0px;
+}
